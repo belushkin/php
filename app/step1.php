@@ -24,6 +24,7 @@ echo "<br/><br/><br/>";
 echo FOO;
 echo "<br/><br/>";
 // Коментарі
+#   yes
 /* 
 Hello
 */

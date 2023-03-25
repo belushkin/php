@@ -48,6 +48,7 @@
         <ul>
             <li><a target="_blank" href="/step1.php">Базовий синтаксис</a></li>
             <li><a target="_blank" href="/step2.php">Типи даних</a></li>
+            <li><a target="_blank" href="/step3.php">Оператори</a></li>
         </ul>
     </div>
 </body>
