@@ -6,7 +6,7 @@
 Ні, якраз на людей без навичок програмування курс і розрахований
 
 ## Операційна система яка використана при запису курсу
-Linux Ubuntu
+[Linux Ubuntu](https://ubuntu.com/)
 
 ## Передумови роботи з курсом
 Щоб легко працювати з курсом в 2023 році необхідно встановити наступний перелік програмного забезпечення
@@ -20,7 +20,7 @@ Linux Ubuntu
 
 ## Зображення згенероване DALL-E2 для курсу
 
-![alt text](./app/img/cover2.png "Logo Title Text 1")
+![alt text](./app/img/cover2.png "PHP course for beginners 2023")
 
 ### Автор курсу
 Maksym Bielushkin
