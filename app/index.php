@@ -32,6 +32,7 @@
 <body>
     <h1>Coding with Max Belushkin</h1>
     <p>Вітаю на курсі PHP для початківців в 2023 році.</p>
+    <p><a target="_blank" href="https://www.youtube.com/@maxbelushkin">Відео курсу</a></p>
     <div><img src="./img/cover.png" width="20%" height="20%"></div>
     <br />
     <div>Основні місця де шукати допомогу:</div>
