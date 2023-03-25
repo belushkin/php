@@ -33,8 +33,16 @@
     <h1>Coding with Max Belushkin</h1>
     <p>Вітаю на курсі PHP для початківців в 2023 році.</p>
     <div><img src="./img/cover.png" width="20%" height="20%"></div>
-    <div><?php echo "Зміст:"; ?></div>
     <br />
+    <div>Основні місця де шукати допомогу:</div>
+    <div>
+        <ul>
+            <li><a target="_blank" href="https://www.php.net/docs.php">Документація</a></li>
+            <li><a target="_blank" href="https://stackoverflow.com/">Питання/Відповідь</a></li>
+        </ul>
+    </div>
+    <br />
+    <div><?php echo "Зміст курсу:"; ?></div>
     <div>
         <ul>
             <li><a target="_blank" href="/step1.php">Базовий синтаксис</a></li>
