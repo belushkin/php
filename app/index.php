@@ -31,7 +31,7 @@
 
 <body>
     <h1>Coding with Max Belushkin</h1>
-    <p>Welcome to PHP course for beginners in 2023 year.</p>
+    <p>Вітаю на курсі PHP для початківців в 2023 році.</p>
     <div><img src="./img/cover.png" width="20%" height="20%"></div>
     <div><?php echo "Зміст:"; ?></div>
     <br />
