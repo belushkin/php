@@ -58,7 +58,7 @@
             <li><a target="_blank" href="/step10.php">Require та include</a></li>
             <li><a target="_blank" href="/step11.php">Namespaces</a></li>
             <li><a target="_blank" href="/step12.php">Autoloading</a></li>
-            <li><a target="_blank" href="/step13.php">Фінальний проект</a></li>
+            <li><a target="_blank" href="/step13.php">Фінальний проєкт</a></li>
         </ul>
     </div>
 </body>

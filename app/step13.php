@@ -30,7 +30,7 @@ require "./project/config.php";
 
 <body>
     <div>
-        <h1>Фінальний проект</h1>
+        <h1>Фінальний проєкт</h1>
         <h2>Сторінка реєстрації та логіну</h2>
         <br />
         <div><img src="./img/cover3.png" width="60%" height="60%"></div>
