@@ -54,6 +54,9 @@
             <li><a target="_blank" href="/step6.php">Масиви</a></li>
             <li><a target="_blank" href="/step7.php">Функції</a></li>
             <li><a target="_blank" href="/step8.php">Супер глобальні змінні</a></li>
+            <li><a target="_blank" href="/step9.php">Дата та час</a></li>
+            <li><a target="_blank" href="/step10.php">Require та include</a></li>
+            <li><a target="_blank" href="/step11.php">Namespaces</a></li>
         </ul>
     </div>
 </body>
