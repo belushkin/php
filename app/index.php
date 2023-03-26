@@ -49,6 +49,11 @@
             <li><a target="_blank" href="/step1.php">Базовий синтаксис</a></li>
             <li><a target="_blank" href="/step2.php">Типи даних</a></li>
             <li><a target="_blank" href="/step3.php">Оператори</a></li>
+            <li><a target="_blank" href="/step4.php">Оператори If/Else, Switch</a></li>
+            <li><a target="_blank" href="/step5.php">Цикли While, For</a></li>
+            <li><a target="_blank" href="/step6.php">Масиви</a></li>
+            <li><a target="_blank" href="/step7.php">Функції</a></li>
+            <li><a target="_blank" href="/step8.php">Супер глобальні змінні</a></li>
         </ul>
     </div>
 </body>
